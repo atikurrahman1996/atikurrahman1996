@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atikurrahman1996
+- 👋 Hi, I’m @ Atikur Rahman
 - 👀 I’m interested in Tech Product Management.
 
 for more details you can see my repositories 
