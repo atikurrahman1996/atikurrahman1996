@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ Atikur Rahman
-- 👀 I’m interested in Tech Product Management.
+- 👀 I’m interested in Tech Product Development & Management.
 
-for more details you can see my repositories 
+
 
 <!---
 atikurrahman1996/atikurrahman1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
