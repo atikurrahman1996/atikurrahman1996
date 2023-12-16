@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ Atikur Rahman
+👋 Hi, I’m @ Atikur Rahman
 
 🔭 I’m currently using Selenium, Cypress, Playwright
 
